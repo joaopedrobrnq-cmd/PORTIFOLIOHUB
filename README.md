@@ -18,6 +18,13 @@ Projeto acadêmico simples em Python que realiza operações básicas de soma, s
 ## Como executar
 1. Abra o terminal na pasta do projeto.
 2. Execute:
-   ```bash
    python calculadora.py
+# Jogo da Adivinhação
 
+## Descrição
+Um jogo simples em Python no qual o jogador deve adivinhar um número aleatório entre 1 e 20.
+
+## Como executar
+1. Abra o terminal na pasta do projeto.
+2. Execute:
+   python adivinhacao.py
