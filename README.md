@@ -10,13 +10,4 @@ PortfolioHUB/
 │       ├── adivinhacao.py
 │       └── README.md
 └── README.md
-# Calculadora Simples
 
-## 📘 Descrição
-Projeto acadêmico simples em Python que realiza operações básicas de soma, subtração, multiplicação e divisão.
-
-## 🚀 Como executar
-1. Abra o terminal na pasta do projeto.
-2. Execute:
-   ```bash
-   python calculadora.py
